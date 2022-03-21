@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button1
+id button2
+id button3
+id frg1
+id frg2
+id frg3
+id textView
+layout activity2
+layout activity3
+layout activity_main
+layout fragment_1
+layout fragment_2
+layout fragment_3
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Pertemuan6_71190476
